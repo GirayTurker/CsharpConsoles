@@ -1,7 +1,4 @@
-﻿// Online C# Editor for free
-// Write, Edit and Run your C# code using C# Online Compiler
-
-namespace ConsoleApp1;
+﻿namespace ConsoleApp1;
 
 class ConsoleApp1
 {
